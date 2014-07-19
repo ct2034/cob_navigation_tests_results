@@ -3,7 +3,6 @@
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_16e4937f-6fcd-483b-9018-1c813924e246.bag.png)
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_58b1a73d-d39a-4106-9e85-d649dff20316.bag.png)
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_6c787e3f-7ae4-424b-a520-af423c0ee005.bag.png)
-![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_9778d639-c7c1-4f49-9b80-9eea3f72679c_wstateekf.bag.png)
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_aa2149dc-b4d4-436e-a0b7-0ff40b4e6469.bag.png)
 ### 2dnav_ipa_eband cob3-6 scene_doku
 ![2dnav_ipa_eband cob3-6 scene_doku](/2dnav_ipa_eband/cob3-6/scene_doku/result_0d04d624-95a2-4f23-b384-f10d3d553f05.bag.png)
