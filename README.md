@@ -1,7 +1,7 @@
 # Test Results overview
 This Overviwe is created by this script:
 https://github.com/ct2034/cob_navigation_tests/blob/hydro_dev/navigation_test_analysis/src/navigation_test_analysis/simple_viewer.py <br>
-_Call it locally for options to compare test data_
+_Call it locally for options to compare test data. _
 ### 2dnav_ipa_eband cob3-6 scene2
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_16e4937f-6fcd-483b-9018-1c813924e246.bag.png)
 ![2dnav_ipa_eband cob3-6 scene2](/2dnav_ipa_eband/cob3-6/scene2/result_58b1a73d-d39a-4106-9e85-d649dff20316.bag.png)
